@@ -9,7 +9,7 @@ PGS answers these questions. It partitions your knowledge graph using community 
 ## Quick Start
 
 ```bash
-npm install pgs-engine
+npm install notforyou23/pgs-engine
 ```
 
 ### Explore the included brain (no API key needed)

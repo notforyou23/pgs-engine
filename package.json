@@ -30,6 +30,11 @@
     "search",
     "partitioned-graph-synthesis"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notforyou23/pgs-engine.git"
+  },
+  "homepage": "https://cosmo.evobrew.com",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.3.0",
