@@ -302,7 +302,7 @@ See `examples/` for complete, runnable provider implementations.
 
 ## The Architecture Behind PGS
 
-PGS operates on knowledge graphs built by [COSMO](https://github.com/cosmo-project), a research system that uses multi-agent orchestration with spreading-activation memory, Hebbian learning, and state-dependent Watts-Strogatz topology maintenance. The graphs aren't just collections of embeddings — they're structured knowledge with 13 semantic edge types, quality-gated ingestion, temporal decay, and consolidation. PGS was designed to query these rich structures, but works with any graph that has nodes with embeddings and edges with weights.
+PGS operates on knowledge graphs built by [COSMO]((https://cosmo.evobrew.com)), a research system that uses multi-agent orchestration with spreading-activation memory, Hebbian learning, and state-dependent Watts-Strogatz topology maintenance. The graphs aren't just collections of embeddings — they're structured knowledge with 13 semantic edge types, quality-gated ingestion, temporal decay, and consolidation. PGS was designed to query these rich structures, but works with any graph that has nodes with embeddings and edges with weights.
 
 ## License
 
